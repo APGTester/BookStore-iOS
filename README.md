@@ -12,4 +12,4 @@ XCUITest is a UI test tool built into XCode and is the tool we use to automate a
 
 We are not looking for a perfect solution but for you to demonstrate the ability to learn a new technology and to have an example we can use to discuss in the interview.
  
-
+Note: This is an open book test. Use whatever online resources you need to complete the task.
